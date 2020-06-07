@@ -1,0 +1,1 @@
+ACTION=="remove", SUBSYSTEM=="usb", ENV{PRODUCT}=="1d57/32da/110", RUN+="/bin/su samuel --command='/home/samuel/Documents/Projects/Infosec/usb-remove/stop.sh'"
