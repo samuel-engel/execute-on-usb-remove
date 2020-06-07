@@ -29,7 +29,7 @@ Where `$user` is your host name, `$path` is the path to the executable and `$pro
 Note: `remove` can be replaced with `add` to run script on USB insertion.
 
 ## License
-
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
